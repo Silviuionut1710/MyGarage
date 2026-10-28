@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "979513552539",
+    "project_id": "com-example-mygarage",
+    "storage_bucket": "com-example-mygarage.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:979513552539:android:ca759afedab7abf4cae03e",
+        "android_client_info": {
+          "package_name": "com.example.mygarage"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_P8HY_6TsSxhNVzf0Cb0cKjJIwumkd_s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
